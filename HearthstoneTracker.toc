@@ -1,0 +1,5 @@
+## Interface: 30000
+## Title: Hearthstone Tracker
+## SavedVariables: WTFRANK_HearthstoneTracker
+## Version: 0.1
+main.lua
