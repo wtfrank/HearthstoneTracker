@@ -1,6 +1,7 @@
-## Interface: 30000
+## Interface: 11302
 ## Title: Hearthstone Tracker
 ## SavedVariables: WTFRANK_HearthstoneTracker
+## Author: Frankie Fisher
 ## Version: 0.1
 main.lua
 main.xml
